@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.text {
+  position: relative;
+}
+
+.text > .prev,
+.text > .curr {
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
